@@ -6,12 +6,12 @@ The project aimed to build proficiency in network scanning, web application test
 
 ## Skills Learned
 
--**Enumeration**: Identifying open ports and services.
--**Exploitation**: Using vulnerabilities to gain access.
--**Password Cracking**: Decoding and cracking password hashes.
--**Privilege Escalation**: Gaining higher-level access on the system.
--**Web Application Testing**: Analyzing and exploiting web applications.
--**Scripting**: Automating tasks with scripts.
+- **Enumeration**: Identifying open ports and services.
+- **Exploitation**: Using vulnerabilities to gain access.
+- **Password Cracking**: Decoding and cracking password hashes.
+- **Privilege Escalation**: Gaining higher-level access on the system.
+- **Web Application Testing**: Analyzing and exploiting web applications.
+- **Scripting**: Automating tasks with scripts.
 
 ## Tools Used
 
